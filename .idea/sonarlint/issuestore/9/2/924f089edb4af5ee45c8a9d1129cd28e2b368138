@@ -1,5 +1,17 @@
 
-f
-java:S3457"%String contains no format specifiers.(Šª„ıÿÿÿÿJ$9f5d7a76-4335-4705-8c55-8a0a409e1ec3
-k	java:S106"+Replace this use of System.out by a logger.(Šª„ıÿÿÿÿJ$53dc08a3-944f-45a9-a45f-087a9a1a1ee1
-k	java:S106"+Replace this use of System.out by a logger.(Ğö¶üÿÿÿÿJ$ed2c2940-a17e-4bf0-8f2e-02e986327bee
+}
+java:S1854"5Remove this useless assignment to local variable "c".(¼ßŞüÿÿÿÿ8è„½ƒ 2J$19c1e28b-e5f1-46e1-a6db-94cdb3f46f64
+}
+java:S1854"5Remove this useless assignment to local variable "n".(ìÊüÿÿÿÿ8é„½ƒ 2J$6160ed38-f150-4141-ba51-e55609f0b04f
+m	java:S106"+Replace this use of System.out by a logger.(…óá8ë„½ƒ 2J$636438a5-5df4-4059-863c-4759640bdf8c
+n
+java:S1481"&Remove this unused "n" local variable.(ìÊüÿÿÿÿ8ì„½ƒ 2J$4e4e722e-ed19-451c-afb5-44d5c03f3dc9
+m	java:S106"+Replace this use of System.out by a logger.(Æƒ¥½8í„½ƒ 2J$745810a3-4ccc-44e8-aab6-7c92a97356dd
+n
+java:S1481"&Remove this unused "c" local variable.(¼ßŞüÿÿÿÿ8í„½ƒ 2J$6482ca28-e8a7-4738-9d12-e10c192e0a48
+r	java:S106"+Replace this use of System.out by a logger.(ƒ¨öÅüÿÿÿÿ8í„½ƒ 2J$26e7b339-a9e7-4a6e-9602-18a604d6c148
+r	java:S106"+Replace this use of System.out by a logger.(úÌ¶øùÿÿÿÿ8í„½ƒ 2J$9d2bb778-dcc4-4140-abc5-a627714dc5cb
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8î„½ƒ 2J$7fd355ad-14be-4e6f-987a-6b25126c2242
+u
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8î„½ƒ 2J$ebbe5442-0802-4b74-9ba0-1c5ed965252f
