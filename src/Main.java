@@ -20,6 +20,8 @@ public class Main {
         int c = sc.nextInt();
         System.out.println("summ");
         System.out.println("github");
+        System.out.println("github");
+
 
 
     }
