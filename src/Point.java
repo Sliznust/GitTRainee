@@ -6,5 +6,6 @@ public class Point {
     {
         System.out.println("Цвет точки x=" + x + ", y=" + y + " " + color);
         System.out.println("1234");
+        System.out.println("lllll");
     }
 }
